@@ -1,0 +1,31 @@
+baseURL = "/"
+relativeURLs = true
+uglyURLs = true
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "WANG_Jiansong"
+#copyright = ""
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "WANG Jiansong"
+  #headline = "WANG Jiansong"
+  image = "img/me.jpg"
+
+  links = [
+    { github = "https://github.com/Janson-ig" },
+    { leetcode = { href = "https://leetcode.cn/u/spongenoob/", text = "LeetCode" } },
+    { twitter = "https://twitter.com/wang_0902" },
+    { linkedin = "https://www.linkedin.com/in/%E5%BB%BA%E5%B5%A9-%E7%8E%8B-a96704163/" },
+    { weibo = { href = "https://weibo.com/u/3687367955", text = "weibo" } },
+
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86"
