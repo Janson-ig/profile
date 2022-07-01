@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/Janson-ig/janson.github.io"
 relativeURLs = true
 uglyURLs = true
 
