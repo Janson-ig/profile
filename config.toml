@@ -1,6 +1,4 @@
 baseURL = "https://janson.github.io"
-relativeURLs = true
-uglyURLs = true
 
 languageCode = "en"
 defaultContentLanguage = "en"
