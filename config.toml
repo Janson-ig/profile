@@ -3,15 +3,15 @@ baseURL = "https://janson-ig.github.io/janson.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "WANG_Jiansong"
+title = "Janson"
 #copyright = ""
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "WANG Jiansong"
-  #headline = "WANG Jiansong"
+  name = "Janson"
+  #headline = "Janson"
   image = "img/me.jpg"
 
   links = [
