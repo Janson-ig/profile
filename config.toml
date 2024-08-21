@@ -3,7 +3,7 @@ baseURL = "https://janson-ig.github.io/janson_profile/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Janson"
+title = "Sponge"
 #copyright = ""
 
 enableEmoji = true
@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { linkedin = "https://www.linkedin.com/in/%E5%BB%BA%E5%B5%A9-%E7%8E%8B-a96704163/" },
     { weibo = { href = "https://weibo.com/u/3687367955", text = "weibo"}},
     { steam = { href = "https://s.team/p/cpnb-kgvk/rwbctcnj", text = "steam"}},
-    { Instagram = { href = "https://www.instagram.com/reore_0/", text = "Instagram"}},
+    { instagram = { href = "https://www.instagram.com/reore_0/", text = "Instagram"}},
     { telegram = { href = "https://t.me/Janson_W", text = "telegram"}},
     { xiaohongshu = {href = "https://www.xiaohongshu.com/user/profile/5bbeb2ec6f281f0001e5879f?xhsshare=CopyLink&appuid=5bbeb2ec6f281f0001e5879f&apptime=1724235497&share_id=502caa71cae040d7a32337ce9f40e9dd", text = "小红书"}}
 
