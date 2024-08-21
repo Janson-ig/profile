@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term"]
     { steam = { href = "https://s.team/p/cpnb-kgvk/rwbctcnj"}},
     { Instagram = { href = "https://www.instagram.com/reore_0/"}},
     { telegram = { href = "https://t.me/Janson_W"}},
-    { 小红书 = {href = "https://www.xiaohongshu.com/user/profile/5bbeb2ec6f281f0001e5879f?xhsshare=CopyLink&appuid=5bbeb2ec6f281f0001e5879f&apptime=1724235497&share_id=502caa71cae040d7a32337ce9f40e9dd"}}
+    { xiaohongshu = {href = "https://www.xiaohongshu.com/user/profile/5bbeb2ec6f281f0001e5879f?xhsshare=CopyLink&appuid=5bbeb2ec6f281f0001e5879f&apptime=1724235497&share_id=502caa71cae040d7a32337ce9f40e9dd"}}
 
   ]
 
