@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term"]
     { weibo = { href = "https://weibo.com/u/3687367955", text = "微博"}},
     { instagram = { href = "https://www.instagram.com/reore_0/", text = "Instagram"}},
     { twitter = "https://twitter.com/wang_0902" },
-    { linkedin = "https://www.linkedin.com/in/%E5%BB%BA%E5%B5%A9-%E7%8E%8B-a96704163/", text = "领英"}
+    { linkedin = { href = "https://www.linkedin.com/in/%E5%BB%BA%E5%B5%A9-%E7%8E%8B-a96704163/", text = "领英"}}
   ]
 
 [module]
